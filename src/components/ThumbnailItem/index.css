@@ -1,0 +1,13 @@
+/* Write your code here. */
+.list-item {
+  margin: 10px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
+.button {
+  background-color: white;
+  border: none;
+  outline: none;
+}
